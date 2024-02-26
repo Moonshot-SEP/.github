@@ -7,6 +7,7 @@ The organization hosts a repository for each tool:
 - **[Metrics-Tool](https://github.com/Moonshot-SEP/Metrics-Tool)**
 - **[AST-Creation-Tool](https://github.com/Moonshot-SEP/AST-Creation-Tool)**
 - **[Visualization-Tool](https://github.com/Moonshot-SEP/Visualization-Tool)**
+- **[JSON-Conversion-Tool](https://github.com/Moonshot-SEP/JSON-Conversion-Tool)**
 
 ## Contribution Guidelines
 Please adhere to the following basic rules for contributing to one of the repositories:
