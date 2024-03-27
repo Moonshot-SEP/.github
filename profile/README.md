@@ -3,10 +3,11 @@
 ## Repositories
 The organization hosts a repository for each tool:
 
-- **[Github-Extraction-Tool](https://github.com/Moonshot-SEP/Github-Extraction-Tool)**
+- **[Extraction-Tool](https://github.com/Moonshot-SEP/Github-Extraction-Tool)**
+- **[Code-to-SPIF-Tool](https://github.com/Moonshot-SEP/AST-Creation-Tool)**
+- **[SPIF-to-SVIF-Tool](https://github.com/Moonshot-SEP/Visualization-Tool)**
+- **[Classviz-Tool](https://github.com/Moonshot-SEP/Classviz-Tool)**
 - **[Metrics-Tool](https://github.com/Moonshot-SEP/Metrics-Tool)**
-- **[RDF-Creation-Tool](https://github.com/Moonshot-SEP/AST-Creation-Tool)**
-- **[JSON-creation & Visualization-Tool](https://github.com/Moonshot-SEP/Visualization-Tool)**
 
 ## Contribution Guidelines
 Please adhere to the following basic rules for contributing to one of the repositories:
