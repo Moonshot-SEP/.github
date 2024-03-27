@@ -6,7 +6,7 @@ The organization hosts a repository for each tool:
 - **[Extraction-Tool](https://github.com/Moonshot-SEP/Github-Extraction-Tool)**
 - **[Code-to-SPIF-Tool](https://github.com/Moonshot-SEP/AST-Creation-Tool)**
 - **[SPIF-to-SVIF-Tool](https://github.com/Moonshot-SEP/Visualization-Tool)**
-- **[Classviz-Tool](https://github.com/Moonshot-SEP/Classviz-Tool)**
+- **[ClassViz-Tool](https://github.com/Moonshot-SEP/Classviz-Tool)**
 - **[Metrics-Tool](https://github.com/Moonshot-SEP/Metrics-Tool)**
 
 ## Contribution Guidelines
